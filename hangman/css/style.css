@@ -1,0 +1,56 @@
+body{
+    margin-top: 30px;
+    background-color: rgba(202, 202, 202, 0.575);
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: relative; right: 50px;
+}
+.container{
+    text-align: center;
+}
+
+#mistakesUpdate{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 25px;
+    position: relative; left: 200px;
+}
+
+#keyboard{
+    font-size: large;
+    font-weight: bold;
+    position: relative; top: 250px; right: 50px;
+}
+#hangmanPic{
+    position: relative; top: 70px; left: 50px;
+}
+
+#easy, #medium, #hard{
+    position: relative; top: 300px; bottom: 50px;
+
+}
+#botao{
+    position: relative; right: 40px; top: 250px;
+    background-color: rgb(156, 156, 156);
+}
+#wordSpotLight{
+    text-transform: uppercase;
+}
+
+#wordSpotLight, #whatToGuess{
+    position: relative; top: 250px ; right: 50px;
+}
+
+.footer {
+    text-align: center;
+    width: 90%;
+    position: relative; top: 500px; left: 100px;
+}
+
+#footer {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    background-color: rgb(197, 197, 197);
+}
